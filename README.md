@@ -5,4 +5,4 @@ This project was done for my data analysis internship. It takes information from
 
 The email was made with html and sent as an html email.
 
-The code iterates throught the data frame sending emails one by one. 
+The code iterates through the data frame sending emails one by one. 
